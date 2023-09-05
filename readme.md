@@ -2,7 +2,7 @@
 
 API Exercise for codingschule
 
-<h2><a href="https://tom-mate-o.github.io/03-Zusatz-Travelblog-JavaScript-Erweiterung/" target="_blank">👀 Click to view the Project</a></h2>
+<h2><a href="https://tom-mate-o.github.io/03-06-Weather-App/" target="_blank">👀 Click to view the Project</a></h2>
 
 
 ## Tasks
