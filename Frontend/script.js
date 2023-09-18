@@ -9,7 +9,7 @@ let temp_max;
 let humidity;
 let wind_speed;
 let sunrise;
-let sunset;
+let sunset; 
 
 document.querySelector(".city").innerText = city;
 
@@ -18,7 +18,7 @@ document.querySelector(".city").innerText = city;
 
 
 function getWeather() {
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric&lang=de`;
+  const url = `http://localhost:3001/wetter/${city}`;
   console.log(url);
 
   fetch(url)
