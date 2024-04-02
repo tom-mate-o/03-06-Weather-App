@@ -4,8 +4,6 @@ API Exercise for codingschule
 
 
 
-<img src="/screenshot_wetterapp.png">
-
 ## Tasks
 
 Modify the variable city to a city of your choice.
